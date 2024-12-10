@@ -1,8 +1,11 @@
 hi jerry pushed the code
 
 hello - how are you?
+<<<<<<< HEAD
 
 developer1 my changes
 
 develop 3 added some data
 
+=======
+>>>>>>> parent of d03567a (developer3)
